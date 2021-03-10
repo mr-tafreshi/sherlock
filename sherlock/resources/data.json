@@ -287,7 +287,7 @@
     "username_unclaimed": "noonewouldeverusethis"
   },
   "Chess": {
-    "errorMsg": "Missing page... somebody made a wrong move.",
+    "errorMsg": "The page you are looking for doesn’t exist. (404)",
     "errorType": "message",
     "url": "https://www.chess.com/member/{}",
     "urlMain": "https://www.chess.com/",
